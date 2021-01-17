@@ -23,7 +23,7 @@ step 4:- open phpmyadmin using this link http://localhost/phpmyadmin/ and create
 
 step 5:- inside the project folder a file is collage.sql is import in phpmyadmin inside collage database
 
-step 6:- check your project http://localhost/transport/
+step 6:- check your project http://localhost/COLLAGE/
 
 if any query you can contact me at any time at linkedIn :-https://www.linkedin.com/in/rajesh-rathore-409a0316b/
 
